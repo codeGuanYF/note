@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "8dd648929e72494a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f8bf52f874b1083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a6b05e85bc8775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCI_PCIe/PCI 体系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17a1299b689c4ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "526ccf71f55aaa2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f937af351f2aed4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ec92626501a48b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5d322af49f27272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c939b232e716c3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "351588541a762437",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40647bd19506d3a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PCI_PCIe/PCI 体系.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61368a058a2075af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCI_PCIe/PCI 体系.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a386635e001e93e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec1b93249d36b109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCI_PCIe/PCI 体系.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "74a6b05e85bc8775",
+  "lastOpenFiles": [
+    "Pasted image 20230718224800.png",
+    "Pasted image 20230718224654.png",
+    "Pasted image 20230718224109.png",
+    "PCI 体系.md",
+    "PCI_PCIe/PCI 体系.md",
+    "PCI 体系.pdf",
+    "未命名",
+    "PCI_PCIe",
+    "github.txt",
+    "新建 文本文档.txt"
+  ]
+}
